@@ -6,6 +6,7 @@
   
   
 [![codewars](https://www.codewars.com/users/EweParo4ky/badges/small)](https://www.codewars.com/users/EweParo4ky)
+< img src="https://img.icons8.com/color/512/javascript.png"></img>
 <!--
 **EweParo4ky/EweParo4ky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

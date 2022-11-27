@@ -2,7 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Family&#128106/Kids&#128118/Dogs&#129460/Computers&#128187/Code&#9000/Games&#127918/Geek&#129497/
   Tattoo/English&#128130/Travels&#128747/Sports&#127942/Boxing&#129354/Running&#127939/Football&#9917</h3>
-[![codewars](https://www.codewars.com/users/EweParo4ky/badges/small)](https://www.codewars.com/users/EweParo4ky/badges/small)
+[![codewars](https://www.codewars.com/users/EweParo4ky/badges/small)](https://www.codewars.com/users/EweParo4ky)
 <!--
 **EweParo4ky/EweParo4ky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

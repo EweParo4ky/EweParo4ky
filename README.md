@@ -1,6 +1,7 @@
 <h1 align="center">Hi there, I'm Ilya 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Family/Kids/Dogs/Computers/Code/Games/Geek/Tattoo/English/Travels/Sports/Boxing/Running/Footbal</h3>
+<h3 align="center">Family/Kids/Dogs/Computers/Code/Games/Geek/
+  Tattoo/English/Travels/Sports/Boxing/Running/Football</h3>
 
 <!--
 **EweParo4ky/EweParo4ky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

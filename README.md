@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Ilya 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Family/Kids/Dogs/Computers/Code/Games/Geek/
+<h3 align="center">Family/Kids/Dogs&#129460/Computers/Code/Games/Geek/
   Tattoo/English/Travels/Sports/Boxing/Running/Football</h3>
 
 <!--

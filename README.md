@@ -5,7 +5,7 @@
   
   
   
-[![codewars](https://www.codewars.com/users/EweParo4ky/badges/small)](https://www.codewars.com/users/EweParo4ky)
+<p align="center">[![codewars](https://www.codewars.com/users/EweParo4ky/badges/small)](https://www.codewars.com/users/EweParo4ky)</p>
 <!--
 **EweParo4ky/EweParo4ky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
